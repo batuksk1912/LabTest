@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">BK LabTest 1</string>
+
+    <!-- Strings for Dialogs -->
+    <string name="dialogs">Dialogs</string>
+    <string name="open_on_phone_animation">Open On Phone Animation</string>
+    <string name="yes_no_dialog">Yes/no dialog</string>
+    <string name="yes_no_dialog_description">This dialog only has two actions available.</string>
+    <string name="one_action_dialog">One action dialog</string>
+    <string name="one_action_dialog_description">There is only one action on this dialog.</string>
+    <string name="multiple_action_dialog">Multiple action dialog</string>
+    <string name="multiple_action_dialog_description">This dialog has multiple actions.</string>
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+    <string name="open_on_phone">Open on phone</string>
+    <string name="yes_no_action">Yes/No action</string>
+    <string name="one_action">One action</string>
+    <string name="multiple_actions">Multiple actions</string>
+    <string name="continue_on_phone">Continue on phone</string>
+    <string name="tap">tap</string>
+
+    <string name="default_text">TextView</string>
+    <string name="title">title</string>
+</resources>
